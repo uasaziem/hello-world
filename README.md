@@ -1,7 +1,6 @@
 # hello-world
 My first project
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
